@@ -2,6 +2,11 @@ a file
 
 test
 test
+<<<<<<< HEAD
 
 
 update from test
+=======
+update bcd
+hi
+>>>>>>> main
